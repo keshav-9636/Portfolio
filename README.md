@@ -36,7 +36,7 @@ Welcome to my portfolio! This repository showcases my work in **Exploratory Data
 
 Feel free to explore the individual projects, and reach out if you'd like to collaborate or chat!
 
-📧 [your.email@example.com]  
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-🌐 [Portfolio Website](https://your-portfolio-site.com)
+📧 [keshav.kothari.9636@gmail.com]  
+💼 [LinkedIn](https://www.linkedin.com/in/kotharikeshav)  
+🌐 [Portfolio Website](https://github.com/keshav-9636)
 
