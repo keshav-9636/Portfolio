@@ -1,13 +1,42 @@
-# Portfolio
+# 📊 Data Analytics Portfolio
 
-Below mentioned are some of the projects made by.
+Welcome to my portfolio! This repository showcases my work in **Exploratory Data Analysis (EDA)** and **dashboard development** using **Python, Power BI, and Excel**. The projects span domains such as movies, e-commerce, retail, energy, and public safety.
 
-| Tool Used | Project Name | Description |
-|----------|----------|----------|
-| Python | [TmDB dataset EDA and Analysis](https://github.com/keshav-9636/python_projects/blob/main/TmDB%20Data%20Analysis%20using%20python.ipynb) | This Jupyter Notebook analyzes TMDb movie data to explore factors influencing movie success, such as budget, revenue, and genre popularity. It includes data cleaning, merging, and visualization using Pandas, NumPy, Matplotlib, and Seaborn. |
-| Python | [Olist EDA and Analysis](https://github.com/keshav-9636/python_projects/blob/main/Olist%20Dataset%20EDA.ipynb) | This EDA project is done on an online store called Olist. In this EDA, I have explored about the product performance, customer behavior, and logistics efficiency of the store during the years 2016 to 2018. I includes data cleaning, merging and visualization using Pandas, Matplotlib, Seaborn |
-| PowerBI | [BlinkIT Dashboard](https://app.powerbi.com/reportEmbed?reportId=f67e54d3-a241-4764-8f65-f24148fedc15&autoAuth=true&ctid=94cae9ea-0b8a-42ae-8bd1-f931240f41de) | This Power BI dashboard visualizes Blinkit's sales performance, displaying total sales, average sales, item counts, and ratings across various outlet locations, sizes, and item categories. It includes insights on outlet establishment trends, fat content distribution, and supermarket performance. |
-| PowerBI | [Netflix Dashboard](https://app.powerbi.com/reportEmbed?reportId=95b0ddda-3539-42e5-ac8c-92137252799c&autoAuth=true&ctid=94cae9ea-0b8a-42ae-8bd1-f931240f41de) | The Netflix Dashboard provides insights into its 5,330 total movies, categorized by genre, rating, and country of origin. It also highlights trends in content additions, director contributions, and the dominance of movies over TV shows. |
-| PowerBI | [Power Plant Analysis](https://app.powerbi.com/reportEmbed?reportId=b927e65e-9cab-43eb-90ce-e67d8bcb8a15&autoAuth=true&ctid=94cae9ea-0b8a-42ae-8bd1-f931240f41de) | The Plant Co. Quantity Performance Dashboard for 2023 tracks YTD sales (555.66K) and growth (17.05K vs PYTD), highlighting country-wise performance, monthly trends, and profitability segmentation. Key insights include top declining countries and product category contributions to overall quantity. |
-| Excel | [Coffee Dashboard](https://github.com/keshav-9636/Portfolio/blob/main/Coffee%20Sales%20Dashboard.PNG) | This project analyzes coffee order data to uncover trends in sales, customer preferences, and order patterns. It includes data processing, visualization, and insights on factors like popular coffee types, peak order times, and revenue distribution. |
-| Excel | [Road Accident](https://github.com/keshav-9636/Portfolio/blob/main/Road%20Accidents.PNG) | The Road Accident Dashboard provides an overview of total casualties (417,883), categorized by severity, vehicle type, road type, and conditions. It includes year-over-year trends, location-based statistics, and filtering options for detailed analysis. |
+---
+
+## 🐍 Python Projects
+
+| Project | Description | Tools |
+|--------|-------------|--------|
+| [🎬 TMDb Dataset EDA and Analysis](https://github.com/your-username/tmdb-eda) | Analyzed TMDb movie data to explore key success factors such as budget, revenue, and genre popularity. Included data cleaning, transformation, and visualization. | `Pandas`, `NumPy`, `Matplotlib`, `Seaborn` |
+| [🛒 Olist EDA and Analysis](https://github.com/your-username/olist-eda) | Performed EDA on Olist’s e-commerce data (2016–2018) to evaluate product performance, customer behavior, and logistics efficiency. | `Pandas`, `Matplotlib`, `Seaborn` |
+
+---
+
+## 📊 Power BI Dashboards
+
+| Project | Description | Tools |
+|--------|-------------|--------|
+| [🏪 Retail Supermarket Dashboard](https://github.com/your-username/supermarket-dashboard) | Dashboard showcasing outlet trends, fat content distribution, and item performance across supermarkets. | `Power BI`, `DAX`, `Data Modeling` |
+| [🎥 Netflix Dashboard](https://github.com/your-username/netflix-dashboard) | Visualized 5,330+ Netflix titles by genre, rating, and country. Included insights on content trends and director contributions. | `Power BI`, `Data Visualization` |
+| [⚡ Power Plant Analysis](https://github.com/your-username/powerplant-dashboard) | Tracked 2023 YTD sales (555.66K) and growth (17.05K vs PYTD). Highlighted declining countries and category trends. | `Power BI`, `KPI Tracking`, `Time Series` |
+
+---
+
+## 📈 Excel Dashboards
+
+| Project | Description | Tools |
+|--------|-------------|--------|
+| [☕ Coffee Dashboard](https://github.com/your-username/coffee-dashboard) | Analyzed coffee order data to uncover sales trends, popular types, and peak ordering times. | `Excel`, `Pivot Tables`, `Charts` |
+| [🚗 Road Accident Dashboard](https://github.com/your-username/road-accident-dashboard) | Provided insights on 417,883 accident records, categorized by severity, vehicle type, and conditions. | `Excel`, `Conditional Formatting`, `Filtering` |
+
+---
+
+## 🔗 Connect with Me
+
+Feel free to explore the individual projects, and reach out if you'd like to collaborate or chat!
+
+📧 [your.email@example.com]  
+💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+🌐 [Portfolio Website](https://your-portfolio-site.com)
+
