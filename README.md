@@ -17,10 +17,10 @@ Welcome to my portfolio! This repository showcases my work in **Exploratory Data
 
 | Project | Description | Tools |
 |--------|-------------|--------|
-| [🏪 Retail Supermarket Dashboard](https://github.com/your-username/supermarket-dashboard) | Dashboard showcasing outlet trends, fat content distribution, and item performance across supermarkets. | `Power BI`, `DAX`, `Data Modeling` |
+| [🏪 BlinkIt Dashboard](https://github.com/your-username/supermarket-dashboard) | Dashboard showcasing trends, fat content distribution, and item performance across Blinkit. | `Power BI`, `DAX`, `Data Modeling` |
 | [🎥 Netflix Dashboard](https://github.com/your-username/netflix-dashboard) | Visualized 5,330+ Netflix titles by genre, rating, and country. Included insights on content trends and director contributions. | `Power BI`, `Data Visualization` |
 | [⚡ Power Plant Analysis](https://github.com/your-username/powerplant-dashboard) | Tracked 2023 YTD sales (555.66K) and growth (17.05K vs PYTD). Highlighted declining countries and category trends. | `Power BI`, `KPI Tracking`, `Time Series` |
-| [🏎 F1 Dashboard]() | Analyzed Formula 1 data (1950–2020) with interactive KPIs, circuit-level insights, and dynamic driver rankings. Added flags, tooltips, and storytelling visuals. | `Power BI`, `Data Visualization`, `Sports Analytics` |
+| [🏎 F1 Dashboard](https://github.com/keshav-9636/PowerBI-Projects/tree/main/F1%20Dashboard) | Analyzed Formula 1 data (1950–2020) with interactive KPIs, circuit-level insights, and dynamic driver rankings. Added flags, tooltips, and storytelling visuals. | `Power BI`, `Data Visualization`, `Sports Analytics` |
 
 ---
 
